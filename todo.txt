@@ -1,0 +1,114 @@
+                                                                        Program output: 
+
+                1. Total count per site count
+CLE - Cleveland
+LDS - Leeds
+CNK - Cannock
+DON - Doncaster
+MNC - Manchester
+LIV - Liverpool
+BHM - Birmingham
+CDF - Cardiff
+2.
+
+
+                2. Total Count of message type
+ING
+CPT
+UPD
+UNA
+OUT
+CNL
+ASN
+COM
+
+                3. ^ Total of each message type per site
+CLE
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+  
+LDS
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+
+CNK
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+
+DON
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+
+MNC
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+
+LIV
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+
+BHM
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+
+CDF
+  ING
+  CPT
+  UPD
+  UNA
+  OUT
+  CNL
+  ASN
+  COM
+  
+                4. Total of Root Cause:
+IPRO
+OMS
+Terminal
+Data
+Message Processor
+3rd Party
+
+  
