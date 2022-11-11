@@ -1,0 +1,344 @@
+﻿1,1,Monday,03/10/2022,CLE,SUDU7431159,Out,Double off dock,Terminal
+2,1,Monday,03/10/2022,LDS,CCLU3997583,ING,Issue Connecting to OMS ,OMS
+3,1,Monday,03/10/2022,DON,TLLU8143241,Ing,Issue with account,OMS
+4,1,Monday,03/10/2022,DON,CMAU7802907,ING,Issue with account,Oms
+5,1,Monday,03/10/2022,CDF,MRSU5166963,Out,OMS Duplicated Message,OMS
+6,1,Monday,03/10/2022,LIV,HLBU2497879,Ing,Issue Connecting to OMS ,OMS
+7,1,Monday,03/10/2022,BHM,HASU1184505,Ing,Issue Connecting to OMS ,OMS
+8,1,Monday,03/10/2022,BHM,SUDU3969465,Out,OMS Duplicated Message,OMS
+9,1,Monday,03/10/2022,CLE,RFCU4044419,Out,OMS Duplicated Message,OMS
+10,1,Monday,03/10/2022,BHM,HASU1222122,Out,OMS Duplicated Message,OMS
+11,1,Monday,03/10/2022,LDS,TCNU3435764,Out,0,0
+12,1,Monday,03/10/2022,DON,TRHU6625545,out,Issue with account,Oms
+13,1,Monday,03/10/2022,BHM,MRKU9615709,Out,OMS Duplicated Message,OMS
+14,1,Monday,03/10/2022,DON,TCNU1076860,UPD,Issue with account,Oms
+15,1,Monday,03/10/2022,DON,TCNU5958980,upd,Issue with account,Oms
+16,1,Monday,03/10/2022,BHM,SEGU5445868,Ing,Missing Outgate,OMS
+17,1,Tuesday,04/10/2022,CDF,ACLU2783326,OUT,General Clean up,Terminal
+18,1,Tuesday,04/10/2022,CDF,GCNU1275134,OUT,General Clean up,Terminal
+19,1,Tuesday,04/10/2022,CDF,GCNU1291080,TOS,General Clean up,Terminal
+20,1,Tuesday,04/10/2022,CDF,GCNU1309996,Tos,General Clean up,Terminal
+21,1,Tuesday,04/10/2022,CDF,GCNU1310723,0,General Clean up,Terminal
+22,1,Tuesday,04/10/2022,CDF,MEDU5276885,0,General Clean up,Terminal
+23,1,Tuesday,04/10/2022,CDF,MEDU5670097,0,General Clean up,Terminal
+24,1,Tuesday,04/10/2022,CDF,MSDU1255325,0,General Clean up,Terminal
+25,1,Tuesday,04/10/2022,CDF,SEGU3694054,0,General Clean up,Terminal
+26,1,Tuesday,04/10/2022,DON,CAAU5740307,N/A,Missing Host message from terminal,Terminal
+27,1,Tuesday,04/10/2022,LIV,TXGU5646711,Tos,Out message with invalid OMS reference ,Terminal
+28,1,Tuesday,04/10/2022,LIV,HLBU3057370,Out,Container placed back into yard,Terminal
+29,1,Tuesday,04/10/2022,LIV,MSKU1267682,Out,Midnight time off gate,0
+30,1,Tuesday,04/10/2022,MNC,HASU5069665,Out,Invalid OMS reference due to previous error (last week),Terminal 
+31,1,Wednesday,05/10/2022,CNK,TEMU6167921,Tos,Customer Code not mapped on Cannock,Master Data
+32,1,Wednesday,05/10/2022,CDF,SEGU2930900,Out,Double Out gate on same day,Terminal
+33,1,Wednesday,05/10/2022,MNC,TEMU6334248,Out,"incorrect error, message processed and customer invoiced anyways.",OMS
+34,1,Wednesday,05/10/2022,MNC,MSKU0747100,0,0,0
+35,1,Wednesday,05/10/2022,CNK,MSMU8512334,0,Ipro Cannock Issues ,Ipro
+36,1,Wednesday,05/10/2022,DON,BSIU9410071,UPD,Invalid OMS reference on message,Terminal
+37,1,Wednesday,05/10/2022,CDF,CSNU1121780,Cpt,"Terminal Created, deleted and recreated OMS message",Terminal
+38,1,Wednesday,05/10/2022,MNC,CAAU5763832,Upd,OMS Time out,Oms
+39,1,Wednesday,05/10/2022,CNK,TCNU1237991,Out,Ipro Cannock Issues ,Ipro
+40,1,Wednesday,05/10/2022,CNK,MNBU3749824,Out,Ipro Cannock Issues ,Ipro
+41,1,Wednesday,05/10/2022,CDF,OOCU4928170,ING Out CPT,invalid OMS reference for container,Terminal
+42,1,Thursday,06/10/2022,CDF,GESU1456134,ING Out CPT,invalid OMS reference for container,Terminal
+43,1,Thursday,06/10/2022,BHM,CLHU3390408,0,0,0
+44,1,Thursday,06/10/2022,LIV,MSMU6494606,Out,Double outgate on same day,Terminal
+45,1,Thursday,06/10/2022,DON,EITU1681704,Ing / Out,Server Error,OMS
+46,1,Thursday,06/10/2022,CDF,UACU4141663,Out,invalid OMS reference for container,Terminal
+47,1,Thursday,06/10/2022,CDF,TCLU3216877,Out,invalid OMS reference for container,Terminal
+48,1,Thursday,06/10/2022,CDF,FBIU0082460,Out,invalid OMS reference for container,Terminal
+49,1,Thursday,06/10/2022,CNK,MNBU4098624,OUT,Same Box outgated  twice ,Terminal
+50,1,Friday,07/10/2022,CDF,GVTU2474470,ASN,Container was Asigned after beeing outgated,Terminal
+51,1,Friday,07/10/2022,LIV,MSMU4198713,CNL,Trying to cancel a contrainer that has already been outgated,OMS
+52,1,Friday,07/10/2022,LDS,TEMU6042288,Out,Invalid oms container,Terminal
+53,1,Friday,07/10/2022,CDF,OOLU3047708,Out,Invalid oms container,Terminal
+54,1,Friday,07/10/2022,CDF,FCIU5442052,Out,Invalid oms container,Terminal
+55,1,Friday,07/10/2022,CDF,"CSNU1121780 , CBHU3660674 , TEMU5054664 , MAGU2160893 , CSLU1690897 , OOLU1976150 , OOLU1260606 , CBHU4160673",Out,Invalid oms container,Terminal
+56,1,Friday,07/10/2022,LIV,MRKU2046560,Out,Double Out message ,Terminal
+57,1,Friday,07/10/2022,DON,GATU0327733,UPD,Missing Ingate for container,Terminal
+58,1,Friday,07/10/2022,DON,FCIU5585222,UPD,Missing Ingate for container,Terminal
+59,1,Friday,07/10/2022,MNC,N/A,UNA,Testing,Terminal
+60,1,Friday,07/10/2022,MNC,FDCU0422222,Ing,Missing Outgate,Terminal
+61,1,Friday,07/10/2022,DON,TGBU5907448,Asn,Container alreadt gated out ,OMS 
+62,1,Friday,07/10/2022,DON,TGBU4764126,Com,Container Departed after an Out message,Terminal
+63,1,Saturday,08/10/2022,CDF,FSCU5032144,Out,Failed outgate,Terminal
+64,1,Saturday,08/10/2022,LDS,CMAU7452584,Stock Check Discrepency,Container placed back on yard,Terminal
+65,1,Saturday,08/10/2022,LDS,TCKU6242960,Ing,Missing Ingate on 4th Thus the failed OMS report,Terminal
+66,1,Saturday,08/10/2022,LDS,TGBU6650605,Ing,Missing Ingate on 4th Thus the failed OMS report,Terminal
+67,1,Saturday,08/10/2022,LIV,CXDU2113558,Out,Outgate completed with container possibly on site,Terminal
+68,1,Saturday,08/10/2022,LIV,BHCU4217322,Out/Ing,Container has been outgated and then showing up on terminal,Terminal
+69,1,Saturday,08/10/2022,CNK,MNBU3302287,Out,Not on TOS count as it has been deleted without outgating,Termnial
+70,1,Saturday,08/10/2022,CNK,MNBU4307832,Out gated but still on yard possibly,Out gated but still on yard possibly,Terminal
+71,1,Saturday,08/10/2022,CNK,MRKU5551400,missing outgate,missing outgate,Terminal
+72,1,Saturday,08/10/2022,CNK,PONU7287310,Out,missing outgate,Termnial
+73,1,Saturday,08/10/2022,CNK,TLLU7612072,Out,missing outgate,Termnial
+74,2,Monday,10/10/2022,LDS,TGBU6650605,out,Missing ,Terminal
+75,2,Monday,10/10/2022,Cnk,TLLU8631441,Out,Missing ingate,Terminal
+76,2,Monday,10/10/2022,LDS,TCLU9534875,out,Outgated with invalid OMS ,Terminal
+77,2,Monday,10/10/2022,CNK,ONEU0065570,Ing Out,Missing outgate from birmingham,Terminal
+78,2,Monday,10/10/2022,DON,MRKU3077437,Out,errored but message processed,OMS
+79,2,Monday,10/10/2022,CDF,MRSU4464773,Out,Missing Ingate ,Terminal/OMS
+80,2,Monday,10/10/2022,LIV,MEDU4431483,Out,updated with incorrect OMS reference,Terminal
+81,2,Tuesday,11/10/2022,LDS,HLXU1145037,Ing Com ,Missing Ingate message causing Com message to error,OMS
+82,2,Tuesday,11/10/2022,CNK,MNBU4349479,Ing Out,Missing Ingate message causing OUT message to error,OMS
+83,2,Tuesday,11/10/2022,CNK,MNBU0595617,Ing,"Incorrect ingate message processed,",Terminal
+84,2,Tuesday,11/10/2022,MNC,KRIU2262929,Cpt,Missing customer set up on OMS,OMS
+85,2,Tuesday,11/10/2022,CNK,CMAU9166701 ,Out,2 out messages in a row,Terminal
+86,2,Tuesday,11/10/2022,MNC,GLQU2085570,Upd,Update message sent after ,Terminal
+87,2,Tuesday,11/10/2022,MNC,GLQU2220182,Out,0,0
+88,2,Tuesday,11/10/2022,LIV,GCXU5368132,Cnl,Cannot cancel due to order being outgated already,OMS
+89,2,Tuesday,11/10/2022,BHM,TCNU7069175,ing,Missing Outgate from Cannock before ingate in Birmingham,Terminal
+90,2,Tuesday,11/10/2022,LIV,BHCU4217322,Ing/Upd/out,Invalid OMS reference due to previous issue,Data
+91,2,Tuesday,11/10/2022,LIV,TCKU7688719,OUT,Updated a outed container on the same day,Terminal
+92,2,Tuesday,11/10/2022,DON,TCNU4402019,Ing,Mapping set up wrong on OMS,OMS
+93,2,Tuesday,11/10/2022,DON,ZCSU7634727,Ing,Mapping set up wrong on OMS,OMS
+94,2,Tuesday,11/10/2022,BHM,MRKU9333140,ing out,Missing Outgate from Cannock before ingate in Birmingham,Terminal
+95,2,Tuesday,11/10/2022,CNK,MOAU0414380,ING/Out,Outgate not received on OMS,OMS
+96,2,Tuesday,11/10/2022,CNK,MNBU4307832,Out,Invalid reference for container on outgate,Termnial
+97,2,Wednesday,12/10/2022,LIV,MSMU5650480,Out,Update caused an outgate message to be created in error,terminal
+98,2,Wednesday,12/10/2022,CNK,TRHU4236246,Out,Incorrect Outgate generated and corrected with valid ING gate,Terminal
+99,2,Wednesday,12/10/2022,BHM,MRKU4728451,Out,Invalid OMS reference on Outgate message,Terminal
+100,2,Wednesday,12/10/2022,BHM,MRSU4812101,Ing,Missing outage from Cannock,Terminal
+101,2,Wednesday,12/10/2022,LDS,GESU3732308,Com,Error on OMS however order is completed,oms
+102,2,Wednesday,12/10/2022,LDS,TCKU6242960,Out,Outgate with invalid OMS Reference ,Terminal
+103,2,Wednesday,12/10/2022,MNC,TCKU6153899,Cnl,Order outgate already processed,Terminal
+104,2,Wednesday,12/10/2022,MNC,NEWU2096038,Out,Outgated with invalid OMS reference ,Terminal
+105,2,Wednesday,12/10/2022,BHM,MRKU9296941,out,CPT message not processed in Ipro ,Ipro
+106,2,Wednesday,12/10/2022,LIV,SUTU2663024,Cnl,Error Cnl ,Terminal
+107,2,Wednesday,12/10/2022,MNC,FFAU2374569,Ing,Missing customer Set up on OMS ,OMS
+108,2,Wednesday,12/10/2022,LDS,GLDU9615753,Upd,Order updated before being ingated,Terminal
+109,2,Wednesday,12/10/2022,LIV,MSDU5663773,Out,Order Outgated and then ingated within minute,Terminal
+110,2,Thursday,13/10/2022,MNC,TCNU7326397,Out,Outgated error,Terminal
+111,2,Tuesday,13/12/2022,LIV,FTAU1447246,Out,Outgated and ingated within a minute ,Terminal
+112,2,Thursday,13/10/2022,MNC,TCNU8804546,out,Duplicated out message ,Terminal
+113,2,Thursday,13/10/2022,MNC,TCNU3232258,out,Order Outgated and then ingated within minute,Terminal
+114,2,Thursday,13/10/2022,CDF,UACU8242878,Out,Out Processed with invalid oms reference,Terminal
+115,2,Thursday,13/10/2022,BHM,CSNU4083913,Ing,Ingate failed due to missing outgate,oms
+116,2,Thursday,13/10/2022,CNK,INKU6622214,Ing,Missing Mapping for customer on Cannock,OMS
+117,2,Thursday,13/10/2022,LIV,TGBU3558310,Out,Invalid OMS reference due to previous Issue,Terminal
+118,2,Thursday,13/10/2022,MNC,MSDU1768971,Cnl,Order failed due to being canceled beforehand,Terminal
+119,2,Thursday,13/10/2022,MNC,MEDU2769580,Ing,Missing Outgate from liverpool,Terminal
+120,2,Thursday,13/10/2022,CNK,MSKU6394627,Out,Missing ingate,Oms not processing 
+121,2,Thursday,13/10/2022,MNC,MSDU1069573,Ing,Missing Customer on oms,OMS
+122,2,Friday,14/10/2022,CDF,CAIU2670050,out,Container placed back in yard ,Terminal
+123,2,Friday,14/10/2022,CDF,HLBU1778531,out,Invalid oms reference,Terminal
+124,2,Friday,14/10/2022,CDF,BSIU4069419,Out,Invalid oms reference,Terminal
+125,2,Friday,14/10/2022,CDF,CAXU7302027,OUT,Invalid oms reference,Terminal
+126,2,Friday,14/10/2022,LIV,TGBU7729690,Asn Upd COM,Container placed back in yard,terminal
+127,2,Friday,14/10/2022,LIV,MRSU3034187,out,Double outgate within day,Termnal
+128,2,Friday,14/10/2022,LDS,SUDU8524554,Out,Order has been outgated already,Terminal
+129,2,Friday,14/10/2022,BHM,HASU4876322,ING COM,Container was missing ingate from Cannock ,Terminal
+130,2,Friday,14/10/2022,CLE,MSKU1009944,Upd Ing,terminal outgated the container in error.,Terminal
+131,2,Friday,14/10/2022,CDF,TESU5002868,Upd,Container updated after outgate,Terminal
+132,2,Friday,14/10/2022,LIV,TOBL4116538,Out,0,0
+133,2,Friday,14/10/2022,LIV,MSMU7541180,Cnl,Invalid Outgate from terminal,Terminal
+134,2,Friday,14/10/2022,LIV,MSDU6225597,Cnl,Invalid Outgate from terminal,Terminal
+135,2,Saturday,15/10/2022,BHM,MRSU4658629,ASN COM ,Out gate was deleted in ipro,Terminal
+136,2,Friday,14/10/2022,BHM,GLDU9908279,Stock Check discrepancy,Missing Out gate message from Ipro,Ipro
+137,2,Friday,14/10/2022,CNK,HASU5032199,Stock Check Discrepency,Container placed back in yard,Terminal
+138,2,Friday,14/10/2022,CDF,MSDU4638652,Stock Check discrepancy,Container placed back into yard,Terminal
+139,2,Friday,14/10/2022,CNK,MSKU6485917,Stock check discrepency,missing ingate message,ipro
+140,2,Saturday,15/10/2022,CNK,MNBU0406605,Stock Discrepency,Missing Ing in OMS,Ipro
+141,3,Sunday,16/10/2022,CNK,MRSU4102630,OUT,Container put back in yard,Terminal
+142,3,Sunday,16/10/2022,CDF,GVTU2474470,COM CPT COM  ,Invalid OMS reference due to previous issue,Data
+143,3,Monday,17/10/2022,LIV,TEMU6883443,OUT,Train issues causing container to return. ,Terminal
+144,3,Monday,17/10/2022,CDF,TESU5006992,OUT,Container put back in yard,Terminal
+145,3,Monday,17/10/2022,CDF,TESU5003057,UPD,Update received after out message,Terminal
+146,3,Monday,17/10/2022,CDF,TESU5006312,OUT,Container placed back in yard,Terminal
+147,3,Monday,17/10/2022,BHM,GCXU5722610,COM,Missing Outgate not processed by terminal CNK,Terminal
+148,3,Monday,17/10/2022,DON,TLLU8378210,ING,Couldn’t processes ING gate without a valid Previous outgate,OMS
+149,3,Monday,17/10/2022,DON,GAOU2158969,ING,Couldn’t processes ING gate without a valid Previous outgate,OMS
+150,3,Monday,17/10/2022,BHM,MRSU4658629,COM,Missing Ingate,Data
+151,3,Monday,17/10/2022,CNK,TGHU8664560,Out,Container tidy up by project team,Terminal
+152,3,Monday,17/10/2022,CNK,TCKU6882000,ING / OUT,Missing Outgate from terminal - not outgated in CNK,Terminal
+153,3,Monday,17/10/2022,CNK,MRKU9769366,OUT / ING,Missing Outgate -  terminal CNK,Ipro
+154,3,Monday,17/10/2022,CNK,NYKU0771202,ING,ING not properly processed,OMS
+155,3,Monday,17/10/2022,MNC,MRBU2124721,OUT,Error on TIL ,OMS
+156,3,Monday,17/10/2022,LIV,TCKU3631356,OUT,Container put back in yard,Terminal
+157,3,Monday,17/10/2022,BHM,APZU3914210,OUT,Container put back in yard,Terminal
+158,3,Tuesday,18/10/2022,CNK,TEMU0120491,Stock Check Discrepancy ,Missing Ingate - not received from IPRO,IPRO
+159,3,Monday,17/10/2022,BHM,PONU1783101,ING COM,Missing outgate  - terminal Cannock,Terminal
+160,3,Monday,17/10/2022,LIV,CAXU3235980,OUT,Container rearrived on rail service,Terminal
+161,3,Tuesday,18/10/2022,DON,TEMU1706933,ING / OUT,Missing Outgate - terminal Leeds,Terminal
+162,3,Tuesday,18/10/2022,LIV,TEMU4339153,OUT,Train issues causing container to be recorded as returned. ,Terminal
+163,3,Tuesday,18/10/2022,DON,MSCU6870410,UPD,Customer Account invalid in Update,Terminal
+164,3,Tuesday,18/10/2022,LIV,TRHU5534841,ING / UPD,Invalid Container size/type,Terminal
+165,3,Thursday,20/10/2022,LDS,HAMU1147027,OUT,Duplicated Outgate,Terminal
+166,3,Wednesday,19/10/2022,LDS,HLBU2843668,UNA OUT UPD,"Terminal cancelled the booking while container was still at the yard, to fix that they have off docked and ingated new oms reference",Terminal
+167,3,Thursday,20/10/2022,LDS,TEMU2508383,ING COM,Server error?,DIL
+168,3,Thursday,20/10/2022,CNK,MEDU4714040,UPD,Update processed after out gate,terminal
+169,3,Thursday,20/10/2022,LDS,CSNU6755806,OUT ING,Messages stuck in system not ,OMS
+170,3,Thursday,20/10/2022,MNC,CMAU6001101,UPD,Updated after Out gate,Terminal
+171,3,Thursday,20/10/2022,LDS,MSMU7589033,OUT,Container outgated before ingated - shows in transit with no arrival then arrives by Road,Terminal
+172,3,Thursday,20/10/2022,LIV,AXIU1649639,UPD ING OUT ,Invalid order of messages & duplicated OMS reference ,Terminal
+173,3,Friday,21/10/2022,MNC,MRKU5155349,ASN ' COM,Container put back in yard,Terminal
+174,3,Thursday,20/10/2022,LDS,CMAU7452584,ING / OUT,Invalid OMS reference - due to prior issue resolution,Terminal
+175,3,Thursday,20/10/2022,CDF,MSDU4638652,COM,invalid OMS due to prior issue resolution,Terminal
+176,3,Friday,21/10/2022,MNC,MSDU1669937,OUT,Container put back in yard - duplicated OUT,Terminal
+177,3,Friday,21/10/2022,MNC,MSKU9144302,ING COM,Missing Ing on OMS,OMS
+178,3,Friday,21/10/2022,LIV,HAMU1085136,OUT,Container put back in yard,Terminal
+179,3,Thursday,20/10/2022,DON,EGHU8473050,OUT ING,Missing OUT Gate  Message,OMS
+180,3,Friday,21/10/2022,LIV,MSDU5899563,OUT / ING,Contianer not outgated - Missing OUT from liverpool,Terminal
+181,3,Friday,21/10/2022,LIV,Multiple x17,OUT,Train arrival cancellation,Terminal
+182,3,Friday,21/10/2022,LIV,MEDU6057691,COM,CNL received but container still put in yard,Terminal
+183,3,Friday,21/10/2022,LIV,TCNU1901420,OUT,container reported as re arriving by rail but arrived by road,terminal
+184,3,Friday,21/10/2022,DON,TRHU1095231,Stock Discrepancy,CNL received and then OUT message - unexpected order of events,Terminal
+185,3,Saturday,22/10/2022,CDF,OOLU0293708,Stock Discrepancy,Container put back in Yard,Terminal
+186,3,Saturday,22/10/2022,BHM,Multiple x13,Stock Discrepancy,Reporting issue ,Reporting
+187,3,Friday,21/10/2022,DON,BSIU8154972 ,Stock Discrepancy,Ingate cancelled but container was placed in Yard,Terminal
+188,3,Friday,21/10/2022,LIV,MSDU1363124,Stock Descrepancy,Container put back in yard,Terminal
+189,3,Friday,21/10/2022,LIV,TGCU0102819,Stock Descrepancy,Container put back in Yard,Terminal
+190,3,Friday,21/10/2022,CNK,MRKU0052899,Stock Descrepancy,Missing  Outgate - not received from IPRO,IPRO
+191,4,Sunday,23/10/2022,CNK,MSKU6485917,Invalid OMS reference,Invalid OMS reference,Terminal
+192,4,Sunday,23/10/2022,LIV,MSDU5684396,Missing Message,Missing Message,IPRO
+193,4,Monday,24/10/2022,LIV,MSDU2340530,OUT,Container Placed back in Yard,Terminal
+194,4,Monday,24/10/2022,LIV,EGHU3664602,OUT,Container Placed back in Yard,Terminal
+195,4,Monday,24/10/2022,MNC,MSDU7617680,ING COM,Missing Previous Outgate ,Terminal
+196,4,Monday,24/10/2022,LIV,TGCU0102819,OUT,Container Processed After Outgated,Terminal
+197,4,Monday,24/10/2022,LIV,PSSU0029617,OUT,Invalid Container Message Processed after outgate,Terminal
+198,4,Tuesday,25/10/2022,LIV,MSMU6366478,CNL,Container Processed After Outgated,Terminal
+199,4,Tuesday,25/10/2022,LDS,GLDU9615753,ASN,Unexpected Order Of Events,Terminal
+200,4,Tuesday,25/10/2022,MNC,CCLU5230820,OUT,Duplicated Message,Terminal
+201,4,Tuesday,25/10/2022,DON,TRHU1095231,OUT,Invalid OMS reference,Data
+202,4,Tuesday,25/10/2022,LDS,CMAU6182740,OUT,Duplicated Message,Terminal
+203,4,Tuesday,25/10/2022,CDF,TESU5005086,OUT,Unexpected Order Of Events,Terminal
+204,4,Tuesday,25/10/2022,LIV,MSKU0309459,CNL,Unexpected Order Of Events,Terminal
+205,4,Wednesday,26/10/2022,MNC,GLQU2876118,OUT,Unexpected Order Of Events,Terminal
+206,4,Wednesday,26/10/2022,LIV,EMCU8602017,ING UPD,Container rejected ,Terminal
+207,4,Wednesday,26/10/2022,LIV,MSDU1996816,ASN,Container Placed back in Yard,Terminal
+208,4,Wednesday,26/10/2022,LIV,MSMU1200993,OUT,Duplicated Message,Terminal
+209,4,Wednesday,26/10/2022,CNK,PONU7866142,ING OUT ,Missing Message,OMS
+210,4,Wednesday,26/10/2022,LIV,GLQU5311516,OUT,Timeout error,OMS
+211,4,Wednesday,26/10/2022,BHM,TRLU4833091,OUT,Duplicated Message,Terminal
+212,4,Wednesday,26/10/2022,LIV,MSDU7641921,OUT,Timeout error,OMS
+213,4,Tuesday,25/10/2022,LIV,MSMU1249695,Stock Discrepancy,Container Placed back in Yard,Terminal
+214,4,Wednesday,26/10/2022,LIV,MSMU6796340,Stock Discrepancy,Container Placed back in Yard,Terminal
+215,4,Thursday,27/10/2022,LIV,FSCU6664243,OUT,Timeout error,Data
+216,4,Wednesday,26/10/2022,DON,BSIU8154972,COM,Invalid OMS reference,Terminal
+217,4,Thursday,27/10/2022,LIV,rob1,Error,Invalid OMS reference,IPRO
+218,4,Thursday,27/10/2022,CDF,TCKU3855377,OUT,Container Placed back in Yard,Terminal
+219,4,Thursday,27/10/2022,MNC,TGBU8041188,ASN,Invalid Container Message Processed after outgate,Data
+220,4,Thursday,27/10/2022,LIV,MEDU5150829,OUT,Duplicated Message,Terminal
+221,4,Thursday,27/10/2022,LIV,MSMU1201006,OUT,Duplicated Message,Terminal
+222,4,Thursday,27/10/2022,BHM,UACU5234483,Stock Discrepancy,Container Placed back in Yard,Terminal
+223,4,Thursday,27/10/2022,MNC,PSSU9013376,Stock Discrepancy,Container Placed back in Yard,Terminal
+224,4,Thursday,27/10/2022,MNC,PSSU9036978,Stock Discrepancy,Container Placed back in Yard,Terminal
+225,4,Thursday,27/10/2022,LIV,MSDU2316596,Out,Duplicated Message,Terminal
+226,4,Thursday,27/10/2022,LIV,MSMU1213943,OUT,Duplicated Message,Terminal
+227,4,Thursday,27/10/2022,Don,GLDU9473469,Stock Discrepancy,Missing Message,IPRO
+228,4,Thursday,27/10/2022,DON,MRSU6403123,ING,Unexpected Order Of Events,Terminal
+229,4,Friday,28/10/2022,LDS,GCXU5836104,UPD,Unexpected Order Of Events,Data
+230,4,Friday,28/10/2022,LIV,MSDU7576148,COM,0,0
+231,4,Friday,28/10/2022,CDF,HLBU1808739,OUT,Container Placed back in Yard,Terminal
+232,4,Friday,28/10/2022,CNK,SUDU8006508,ING,Missing Message,IPRO
+233,4,Friday,28/10/2022,MNC,NEWU2099675,OUT,Invalid OMS reference,Data
+234,4,Friday,28/10/2022,LIV,MSDU2265816,ING,Duplicated Message,Terminal
+235,4,Saturday,29/10/2022,LIV,GLQU5947998,OUT,Missing Message,Terminal
+236,4,Saturday,29/10/2022,CDF,TCNU2746859,OUT,Missing Message,Terminal
+237,4,Saturday,29/10/2022,CDF,PSSU0030639,CPT,Missing Message,Terminal
+238,4,Saturday,29/10/2022,CDF,PSSU0034357,CPT,Missing Message,Terminal
+239,4,Friday,28/10/2022,DON,TCKU3928128,Stock Discrepancy,Container Placed back in Yard,Terminal
+240,5,Monday,31/10/2022,CDF,CAIU7558697,Missing Ing,Missing Ing,Terminal
+241,5,Monday,31/10/2022,CDF,MRSU5516167,Missing Ing,Missing Ing,Terminal
+242,5,Monday,31/10/2022,CDF,MRKU0091766,OUT,Missing Ing,Terminal
+243,5,Monday,31/10/2022,CDF,MSDU7216136,CPT,Missing Ing,Terminal
+244,5,Monday,31/10/2022,LDS,GLQU3038439,UPD,Missing Ing,Terminal
+245,5,Monday,31/10/2022,CDF,MRSU6039310,OUT,Unexpected Order Of Events,Terminal
+246,5,Monday,31/10/2022,CDF,MSDU4088324,OUT,Missing Ing,Terminal
+247,5,Monday,31/10/2022,CDF,GESU8069841,OUT,Missing Ing,Terminal
+248,5,Monday,31/10/2022,CDF,DHIU1955115,OUT,Missing Ing,Terminal
+249,5,Monday,31/10/2022,CDF,MSCU5355822,OUT,Missing Ing,Terminal
+250,5,Monday,31/10/2022,CNK,EMCU5480430,ING,Invalid/Missing Customer Account ,OMS
+251,5,Monday,31/10/2022,DON,TCKU3928128,COM,Invalid OMS reference,Data
+252,5,Monday,31/10/2022,LIV,AXIU1649639,UPD,Invalid OMS reference,Data
+253,5,Monday,31/10/2022,CDF,MEDU8584705,OUT,Missing Ing,Terminal
+254,5,Monday,31/10/2022,CDF,CAIU7790465,OUT,Missing Ing,Terminal
+255,5,Monday,31/10/2022,LIV,MSKU0309459,ASN,Invalid OMS reference,Terminal
+256,5,Tuesday,01/11/2022,BHM,HLBU2657534,UPD,Container Processed After Outgated,Terminal
+257,5,Tuesday,01/11/2022,LIV,CAIU2817347,OUT,Missing Out,Terminal
+258,5,Tuesday,01/11/2022,DON,CAXU9239514,ING,Invalid/Missing Customer Account ,OMS
+259,5,Tuesday,01/11/2022,CDF,MRSU5035428,OUT,Missing Ing,Terminal
+260,5,Tuesday,01/11/2022,LIV,HLXU1256067,OUT,Container Processed After Outgated,Terminal
+261,5,Tuesday,01/11/2022,DON,TGBU4778053,ING,Invalid/Missing Customer Account ,Terminal
+262,5,Tuesday,01/11/2022,LIV,MSDU1996816,UNA,Invalid OMS reference,OMS
+263,5,Tuesday,01/11/2022,LIV,MSDU2265816,ING ASN COM,General Error,Terminal
+264,5,Wednesday,02/11/2022,LIV,MSDU1363124,OUT,Invalid OMS reference,Data
+265,5,Wednesday,02/11/2022,LIV,FTAU6593428,UPD,Invalid Container Message Processed after outgate,Terminal
+266,5,Wednesday,02/11/2022,BHM,MAGU5304778,UPD,Invalid Container Message Processed after outgate,Terminal
+267,5,Tuesday,01/11/2022,MNC,GLQU1743050,UPD,Unexpected Order Of Events,Terminal
+268,5,Wednesday,02/11/2022,CDF,PSSU0034357,OUT,Invalid OMS reference,Data
+269,5,Wednesday,02/11/2022,CDF,PSSU0030639,OUT,Invalid OMS reference,OMS
+270,5,Wednesday,02/11/2022,LIV,TCNU3433099,ASN,Container Processed After Outgated,Terminal
+271,5,Tuesday,01/11/2022,DON,QUBU7000379,CPT,Invalid/Missing Customer Account ,OMS
+272,5,Tuesday,01/11/2022,DON,QUBU7001267,CPT,Invalid/Missing Customer Account ,OMS
+273,5,Wednesday,02/11/2022,LDS,TGHU6353208,OUT,Container Processed After Outgated,OMS
+274,5,Tuesday,01/11/2022,LIV,TGBU5637168,UNA,Container Processed After Outgated,IPRO
+275,5,Wednesday,02/11/2022,MNC,CAAU5178566,OUT,Container Processed After Outgated,OMS
+276,5,Tuesday,01/11/2022,LIV,MSDU8973520,CNL,Invalid Container Message Processed after outgate,Data
+277,5,Wednesday,02/11/2022,LDS,NYKU0860974,OUT,Container Processed After Outgated,OMS
+278,5,Wednesday,02/11/2022,MNC,HDMU2711313,OUT,Container Processed After Outgated,OMS
+279,5,Wednesday,02/11/2022,CDF,MRKU6008851,OUT,Invalid OMS reference,Data
+280,5,Wednesday,02/11/2022,DON,QUBU7000430,OUT,Invalid/Missing Customer Account ,Terminal
+281,5,Wednesday,02/11/2022,DON,QUBU7000450,OUT,Invalid/Missing Customer Account ,Terminal
+282,5,Wednesday,02/11/2022,LIV,HLBU1737677,OUT,Duplicated Message,Terminal
+283,5,Wednesday,02/11/2022,LIV,STEVE,UNA,Invalid OMS reference,Data
+284,5,Wednesday,02/11/2022,LDS,DFSU2763094,COM,Container Processed After Outgated,OMS
+285,5,Wednesday,02/11/2022,LDS,DFSU2757189,COM,Container Processed After Outgated,OMS
+286,5,Wednesday,02/11/2022,LDS,TLLU2366335,COM,Container Processed After Outgated,OMS
+287,5,Wednesday,02/11/2022,LDS,BEAU2031374,COM,Container Processed After Outgated,OMS
+288,5,Wednesday,02/11/2022,LDS,HDMU2863321,COM,Container Processed After Outgated,OMS
+289,5,Wednesday,02/11/2022,LDS,FCIU4892353,COM,Container Processed After Outgated,OMS
+290,5,Wednesday,02/11/2022,LDS,UACU8448215,COM,Container Processed After Outgated,OMS
+291,5,Thursday,03/11/2022,CNK,TCNU3432678,ING,Invalid/Missing Customer Account ,OMS
+292,5,Thursday,03/11/2022,MNC,TEMU6281488,COM,Container Rejected ,OMS
+293,5,Wednesday,02/11/2022,CDF,5007620,ING,Invalid OMS reference,Terminal
+294,5,Wednesday,02/11/2022,CDF,5007520,UPD,Unexpected Order Of Events,Terminal
+295,5,Wednesday,02/11/2022,LIV,MSMU1100063,OUT,Unexpected Order Of Events,Terminal
+296,5,Thursday,03/11/2022,MNC,GAOU6671394,OUT,Container Processed After Outgated,Terminal
+297,5,Thursday,03/11/2022,MNC,MRKU4120733,CPT,Invalid/Missing Customer Account ,OMS
+298,5,Thursday,03/11/2022,LIV,MSKU9086530,CNL,Container Processed After Outgated,Terminal
+299,5,Thursday,03/11/2022,LIV,TCKU6847354,CNL,Container Processed After Outgated,Terminal
+300,5,Thursday,03/11/2022,LDS,EITU1757435,OUT,Timeout error,OMS
+301,5,Thursday,03/11/2022,LIV,CSNU6210750,ING,General Error,OMS
+302,5,Thursday,03/11/2022,CDF,OOLU0293708,OUT,Invalid OMS reference,Data
+303,5,Thursday,03/11/2022,LIV,MSCU5656493,Stock Discrepancy,Missing Ing,Terminal
+304,5,Thursday,03/11/2022,MNC,OOLU7976861,UPD,Container Processed After Outgated,Terminal
+305,5,Friday,04/11/2022,CDF,DHDU1273436,OUT,Container Details incorrect,OMS
+306,5,Thursday,03/11/2022,LIV,TCNU2912902,Stock Discrepancy,Invalid OMS reference,Terminal
+307,5,Thursday,03/11/2022,CNK,SEGU4145207,Stock Discrepancy,Missing Out,IPRO
+308,5,Thursday,03/11/2022,CNK,HDMU4753447,UPD,Container Processed After Outgated,Terminal
+309,5,Thursday,03/11/2022,LIV,SEGU2928965,OUT,Container Placed back in Yard,Terminal
+310,5,Friday,04/11/2022,CDF,UESU5130134,OUT,Container Placed back in Yard,OMS
+311,5,Friday,04/11/2022,CDF,TESU5000989,OUT,Unexpected Order Of Events,Terminal
+312,5,Friday,04/11/2022,CNK,PSSU0039750,ING,Missing Out,Terminal
+313,5,Friday,04/11/2022,MNC,EITU1656770,OUT,Container Details incorrect,Terminal
+314,5,Friday,04/11/2022,MNC,TGBU6296976,OUT,Container Details incorrect,Terminal
+315,5,Friday,04/11/2022,MNC,TCNU2383223,OUT,Container Details incorrect,Terminal
+316,5,Friday,04/11/2022,MNC,MRKU5699450,OUT,Container Details incorrect,Terminal
+317,5,Friday,04/11/2022,MNC,MRKU2165451,OUT,Container Details incorrect,Terminal
+318,5,Friday,04/11/2022,MNC,FSCU8966941,OUT,Container Details incorrect,Terminal
+319,5,Friday,04/11/2022,MNC,MRKU5713585,OUT,Container Details incorrect,Terminal
+320,5,Friday,04/11/2022,MNC,TEMU6055726,OUT,Container Details incorrect,Terminal
+321,5,Friday,04/11/2022,MNC,EMCU9461248,OUT,Container Details incorrect,Terminal
+322,5,Friday,04/11/2022,MNC,MSMU4320734,OUT,Container Details incorrect,Terminal
+323,5,Friday,04/11/2022,MNC,APZU3925425,OUT,Container Details incorrect,Terminal
+324,5,Friday,04/11/2022,MNC,MSKU1718894,OUT,Container Details incorrect,Terminal
+325,5,Friday,04/11/2022,MNC,MRKU7340900,OUT,Container Details incorrect,Terminal
+326,5,Friday,04/11/2022,MNC,TRHU4831357,OUT,Container Details incorrect,Terminal
+327,5,Friday,04/11/2022,MNC,MRKU2053338,OUT,Container Details incorrect,Terminal
+328,5,Friday,04/11/2022,MNC,MSKU1468537,OUT,Container Details incorrect,Terminal
+329,5,Friday,04/11/2022,MNC,EMCU1529146,OUT,Container Details incorrect,Terminal
+330,5,Friday,04/11/2022,MNC,MRSU5067528,OUT,Container Details incorrect,Terminal
+331,5,Friday,04/11/2022,MNC,PONU7884399,OUT,Container Details incorrect,Terminal
+332,5,Friday,04/11/2022,MNC,FFAU1889826,OUT,Container Details incorrect,Terminal
+333,5,Friday,04/11/2022,MNC,CSNU7681478,OUT,Container Details incorrect,Terminal
+334,5,Friday,04/11/2022,MNC,MSDU8039631,OUT,Container Details incorrect,Terminal
+335,5,Friday,04/11/2022,MNC,OOCU7387079,OUT,Container Details incorrect,Terminal
+336,5,Friday,04/11/2022,MNC,CAIU7776214,OUT,Container Details incorrect,Terminal
+337,5,Friday,04/11/2022,MNC,MSMU8827080,OUT,Container Details incorrect,Terminal
+338,5,Friday,04/11/2022,CDF,TESU5000980,Stock Discrepancy,General Error,Terminal
+339,5,Friday,04/11/2022,LDS,GLQU3038439,COM,Invalid OMS reference,OMS
+340,5,Friday,04/11/2022,CDF,SUDU6959753,OUT,Invalid OMS reference,OMS
+341,5,Friday,04/11/2022,MNC,MRKU4162092,OUT,Missing Ing,Terminal
+342,5,Friday,04/11/2022,CDF,TESU5007620,Stock Discrepancy,Duplicated Message,Terminal
+343,5,Saturday,05/11/2022,LIV,MSKU1231191,OUT,Timeout error,OMS
+344,5,Friday,04/11/2022,LIV,TCKU3631356,Stock Discrepancy,Invalid OMS reference,Data
