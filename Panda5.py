@@ -19,3 +19,10 @@ df['CAUSE'].value_counts(ascending=True)
 
 
 ## ^ but with site occurances
+
+data = {
+  "calories": [420, 420, 390],
+  "duration": [50, 50, 45]
+}
+df['calories'].value_counts(ascending=True)
+myvar = pd.DataFrame(data)
