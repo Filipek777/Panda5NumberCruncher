@@ -1,4 +1,5 @@
-﻿1,1,Monday,03/10/2022,CLE,SUDU7431159,Out,Double off dock,Terminal
+NUMBER,WEEK,DAY,DATE,SITE,BOX,MESSAGE,REASON,CAUSE
+1,1,Monday,03/10/2022,CLE,SUDU7431159,Out,Double off dock,Terminal
 2,1,Monday,03/10/2022,LDS,CCLU3997583,ING,Issue Connecting to OMS ,OMS
 3,1,Monday,03/10/2022,DON,TLLU8143241,Ing,Issue with account,OMS
 4,1,Monday,03/10/2022,DON,CMAU7802907,ING,Issue with account,Oms
@@ -23,7 +24,7 @@
 23,1,Tuesday,04/10/2022,CDF,MEDU5670097,0,General Clean up,Terminal
 24,1,Tuesday,04/10/2022,CDF,MSDU1255325,0,General Clean up,Terminal
 25,1,Tuesday,04/10/2022,CDF,SEGU3694054,0,General Clean up,Terminal
-26,1,Tuesday,04/10/2022,DON,CAAU5740307,N/A,Missing Host message from terminal,Terminal
+26,1,Tuesday,04/10/2022,DON,CAAU5740307,0,Missing Host message from terminal,Terminal
 27,1,Tuesday,04/10/2022,LIV,TXGU5646711,Tos,Out message with invalid OMS reference ,Terminal
 28,1,Tuesday,04/10/2022,LIV,HLBU3057370,Out,Container placed back into yard,Terminal
 29,1,Tuesday,04/10/2022,LIV,MSKU1267682,Out,Midnight time off gate,0
